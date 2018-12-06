@@ -1,0 +1,1 @@
+addSbtPlugin("org.scala-sbt" % "sbt-duplicates-finder" % "0.8.1")
