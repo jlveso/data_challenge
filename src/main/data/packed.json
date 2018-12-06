@@ -1,0 +1,206 @@
+[{
+  "id": 0,
+  "weight": "9.700000000000001 pounds",
+  "content": [
+    {
+      "title": "The Ocean at the End of the Lane: A Novel [Deckle Edge] [Hardcover]",
+      "author": "Neil Gaiman (Author)",
+      "weight": "9.4 pounds",
+      "price": "$15.22",
+      "isbn_10": "0062255657"
+    }
+  ]
+},{
+  "id": 1,
+  "weight": "9.100000000000001 pounds",
+  "content": [
+    {
+      "title": "The Unforgiven [Paperback]",
+      "author": "Alan LeMay (Author)",
+      "weight": "8.8 pounds",
+      "price": "$8.97",
+      "isbn_10": "147780630X"
+    }
+  ]
+},{
+  "id": 2,
+  "weight": "8.1 pounds",
+  "content": [
+    {
+      "title": "The Europa Regional Surveys of the World Set 2011: 9-Volume Set [Hardcover]",
+      "author": "Europa Publications (Editor)",
+      "weight": "7.8 pounds",
+      "price": "$7450.0",
+      "isbn_10": "1857435885"
+    }
+  ]
+},{
+  "id": 3,
+  "weight": "7.8999999999999995 pounds",
+  "content": [
+    {
+      "title": "World War Z: The Art of the Film [Paperback]",
+      "author": "Titan Books (Author)",
+      "weight": "7.6 pounds",
+      "price": "$15.83",
+      "isbn_10": "1781168857"
+    }
+  ]
+},{
+  "id": 4,
+  "weight": "9.3 pounds",
+  "content": [
+    {
+      "title": "Inquebrantable: Mi Historia, A Mi Manera (Atria Espanol) (Spanish Edition) [Paperback]",
+      "author": "Jenni Rivera (Author)",
+      "weight": "6.4 pounds",
+      "price": "$10.18",
+      "isbn_10": "1476745420"
+    },
+    {
+      "title": "No god but God: The Origins and Evolution of Islam [Paperback]",
+      "author": "Reza Aslan (Author)",
+      "weight": "2.6 pounds",
+      "price": "$8.99",
+      "isbn_10": "0385739761"
+    }
+  ]
+},{
+  "id": 5,
+  "weight": "8.1 pounds",
+  "content": [
+    {
+      "title": "A New Kind of Science [Hardcover]",
+      "author": "Stephen Wolfram (Author)",
+      "weight": "5.6 pounds",
+      "price": "$35.25",
+      "isbn_10": "1579550088"
+    },
+    {
+      "title": "Sylvia Day Crossfire Series Boxed Set: Bared to You/Reflected in You/Entwined with You [Paperback]",
+      "author": "Sylvia Day (Author)",
+      "weight": "2.2 pounds",
+      "price": "$26.32",
+      "isbn_10": "0425266060"
+    }
+  ]
+},{
+  "id": 6,
+  "weight": "7.4 pounds",
+  "content": [
+    {
+      "title": "Never Go Back: A Jack Reacher Novel [Hardcover]",
+      "author": "Lee Child (Author)",
+      "weight": "4.9 pounds",
+      "price": "$17.52",
+      "isbn_10": "0385344341"
+    },
+    {
+      "title": "I Wear the Black Hat: Grappling with Villains (Real and Imagined) [Hardcover]",
+      "author": "Chuck Klosterman (Author)",
+      "weight": "2.2 pounds",
+      "price": "$15.49",
+      "isbn_10": "1439184496"
+    }
+  ]
+},{
+  "id": 7,
+  "weight": "6.1 pounds",
+  "content": [
+    {
+      "title": "The House of Hades (Heroes of Olympus, Book 4) [Hardcover]",
+      "author": "Rick Riordan (Author)",
+      "weight": "4.4 pounds",
+      "price": "$10.19",
+      "isbn_10": "1423146727"
+    },
+    {
+      "title": "The Pioneer Woman Cooks: A Year of Holidays: 135 Step-by-Step Recipes for Simple, Scrumptious Celebrations [Hardcover]",
+      "author": "Ree Drummond (Author)",
+      "weight": "1.4 pounds",
+      "price": "$20.29",
+      "isbn_10": "0062225227"
+    }
+  ]
+},{
+  "id": 8,
+  "weight": "5.799999999999999 pounds",
+  "content": [
+    {
+      "title": "The Ocean at the End of the Lane: A Novel [Deckle Edge] [Hardcover]",
+      "author": "Neil Gaiman (Author)",
+      "weight": "4.1 pounds",
+      "price": "$15.22",
+      "isbn_10": "0062255657"
+    },
+    {
+      "title": "This Town: Two Parties and a Funeral-Plus, Plenty of Valet Parking!-in America\u0027s Gilded Capital [Hardcover]",
+      "author": "Mark Leibovich (Author)",
+      "weight": "1.4 pounds",
+      "price": "$15.37",
+      "isbn_10": "0399161309"
+    }
+  ]
+},{
+  "id": 9,
+  "weight": "5.3 pounds",
+  "content": [
+    {
+      "title": "The English Girl: A Novel (Gabriel Allon) [Hardcover]",
+      "author": "Daniel Silva (Author)",
+      "weight": "3.6 pounds",
+      "price": "$16.46",
+      "isbn_10": "0062073168"
+    },
+    {
+      "title": "The Cuckoo\u0027s Calling [Hardcover]",
+      "author": "Robert Galbraith (Author), J.K. Rowling (Author)",
+      "weight": "1.4 pounds",
+      "price": "$17.47",
+      "isbn_10": "0316206849"
+    }
+  ]
+},{
+  "id": 10,
+  "weight": "5.1 pounds",
+  "content": [
+    {
+      "title": "The English Girl: A Novel (Gabriel Allon) [Hardcover]",
+      "author": "Daniel Silva (Author)",
+      "weight": "3.6 pounds",
+      "price": "$16.46",
+      "isbn_10": "0062073168"
+    },
+    {
+      "title": "Zealot: The Life and Times of Jesus of Nazareth [Hardcover]",
+      "author": "Reza Aslan (Author)",
+      "weight": "1.2 pounds",
+      "price": "$16.89",
+      "isbn_10": "140006922X"
+    }
+  ]
+},{
+  "id": 11,
+  "weight": "3.5 pounds",
+  "content": [
+    {
+      "title": "Pacific Rim: Man, Machines, and Monsters [Hardcover]",
+      "author": "David S Cohen (Author), Guillermo del Toro (Foreword)",
+      "weight": "3.2 pounds",
+      "price": "$27.83",
+      "isbn_10": "1608871827"
+    }
+  ]
+},{
+  "id": 12,
+  "weight": "3.0999999999999996 pounds",
+  "content": [
+    {
+      "title": "Man of Steel: Inside the Legendary World of Superman [Hardcover]",
+      "author": "Daniel Wallace (Author), Zack Snyder (Introduction)",
+      "weight": "2.8 pounds",
+      "price": "$31.07",
+      "isbn_10": "1608871819"
+    }
+  ]
+}]
